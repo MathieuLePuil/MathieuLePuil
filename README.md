@@ -52,6 +52,9 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
     	<a href="https://github.com/MathieuLePuil/PortfolioMMI">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=PortfolioMMI&theme=dracula" alt="GitHub Stats" />
     	</a>
+	  <a href="https://github.com/MathieuLePuil/discord.py">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=discord.py&theme=dracula" alt="GitHub Stats" />
+    	</a>
 	
   </p>
 </div>
