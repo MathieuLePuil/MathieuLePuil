@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&center=true&lines=%C3%89tudiant+en+B.U.T+MMI+%C3%A0+Troyes;D%C3%A9veloppeur+Web+Full+Stack;D%C3%A9veloppeur+de+programme+Python)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&center=true&lines=%C3%89tudiant+en+B.U.T+MMI+%C3%A0+Troyes;D%C3%A9veloppeur+Web+Full+Stack;D%C3%A9veloppeur+de+programme+Python"></a>
 </p>
 
 <br>
