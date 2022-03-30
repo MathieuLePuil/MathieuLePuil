@@ -19,9 +19,9 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 ## :speech_balloon: Me contacter
 
 <p align="center">
-	<a href="mailto:contact@mathieulp.fr"><img src="https://icon-library.com/images/mail-icon-white/mail-icon-white-15.jpg" alt="Gmail" width="67" height="50" /></a>
-	<a href="https://github.com/MathieuLePuil"><img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="GitHub" width="70" height="70" /></a>
-	<a href="https://www.linkedin.com/in/mathieulepuil/"><img src="https://www.ifp-formation.ch/wp-content/uploads/2018/05/linkedin-logo-w.png" alt="LinkedIn" width="50" height="50" /></a>
+	<a href="mailto:contact@mathieulp.fr"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/mail.png" alt="Gmail" /></a>
+	<a href="https://github.com/MathieuLePuil"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/github.png" alt="GitHub" /></a>
+	<a href="https://www.linkedin.com/in/mathieulepuil/"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/linkedin.png" alt="LinkedIn" /></a>
 	
 </p>
 
