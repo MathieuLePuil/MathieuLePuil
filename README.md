@@ -12,7 +12,7 @@
 
 ## 👨🏼‍💼 Mon profil
 
-Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet à l'I.U.T de Troyes. Je poursuivrais ma formation en me spécialisant dans le développement Web afin de devenir Développeur Full Stack. Je suis ouvert à toute proposition d'alternance.
+Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet à l'I.U.T de Troyes. Je poursuivrais ma formation en me spécialisant dans le développement Web afin de devenir Développeur Full Stack. Je suis ouvert à toute proposition d'alternance dès septembre 2022.
 
 <br>
 
