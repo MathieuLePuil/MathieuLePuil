@@ -21,7 +21,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 <p align="center">
 	<a href="mailto:contact@mathieulp.fr"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/mail.png" alt="Gmail"/></a>
 	<a href="https://github.com/MathieuLePuil"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/github.png" alt="GitHub" /></a>
-	<a href="https://www.linkedin.com/in/mathieulepuil/"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/linkedin.png" alt="LinkedIn" /></a>
+	<a href="https://www.linkedin.com/in/mathieulepuil/"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/linkedin.png" alt="LinkedIn" target="_blank" /></a>
 	
 </p>
 
