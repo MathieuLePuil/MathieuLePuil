@@ -19,7 +19,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 ## :speech_balloon: Me contacter
 
 <p align="center">
-	<a href="mailto:contact@mathieulp.fr"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/mail.png" alt="Gmail" /></a>
+	<a href="mailto:contact@mathieulp.fr"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/mail.png" alt="Gmail" width="69" height="50" /></a>
 	<a href="https://github.com/MathieuLePuil"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/github.png" alt="GitHub" /></a>
 	<a href="https://www.linkedin.com/in/mathieulepuil/"><img src="https://github.com/MathieuLePuil/MathieuLePuil/blob/main/linkedin.png" alt="LinkedIn" /></a>
 	
@@ -53,5 +53,3 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 ---
 
 Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)
-
-Dernière MAJ: 30/03/2022
