@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=LAIR-Antoine&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="LAIR-Antoine" />
+	<img src="https://komarev.com/ghpvc/?username=MathieuLePuil&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="MathieuLePuil" />
 	
 </p>
 
@@ -19,8 +19,8 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 ## :speech_balloon: Me contacter
 
 <p align="center">
-	<a href="mailto:contact@mathieulp.fr"><img src="https://icon-library.com/images/mail-icon-white/mail-icon-white-15.jpg" alt="Gmail" width="50" height="50" /></a>
-	<a href="https://github.com/MathieuLePuil"><img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="GitHub" width="50" height="50" /></a>
+	<a href="mailto:contact@mathieulp.fr"><img src="https://icon-library.com/images/mail-icon-white/mail-icon-white-15.jpg" alt="Gmail" width="67" height="50" /></a>
+	<a href="https://github.com/MathieuLePuil"><img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg" alt="GitHub" width="60" height="60" /></a>
 	<a href="https://www.linkedin.com/in/mathieulepuil/"><img src="https://www.ifp-formation.ch/wp-content/uploads/2018/05/linkedin-logo-w.png" alt="LinkedIn" width="50" height="50" /></a>
 	
 </p>
