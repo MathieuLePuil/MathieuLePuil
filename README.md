@@ -42,6 +42,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 <a href="https://github.com/MathieuLePuil"><img alt="Contributions du mois" src="https://activity-graph.herokuapp.com/graph?username=MathieuLePuil&custom_title=Mes%20contributions%20du%20mois&theme=react-dark" /></a>
 <br/>
+<a href="https://github.com/MathieuLePuil"><img alt="Contributions du mois" src="https://cdn.discordapp.com/attachments/736233982584422411/1026401447350382613/Capture_decran_2022-10-03_094948.png" /></a>
 
 
 ## 🗂 Projets publics
