@@ -63,4 +63,4 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)
 
-<a href="https://github.com/MathieuLePuil"><img alt="Contributions du mois" src="https://cdn.discordapp.com/attachments/736233982584422411/1026401447350382613/Capture_decran_2022-10-03_094948.png" /></a>
+<a href="https://github.com/MathieuLePuil"><img align="center" alt="Contributions du mois" src="https://cdn.discordapp.com/attachments/736233982584422411/1026401447350382613/Capture_decran_2022-10-03_094948.png" /></a>
