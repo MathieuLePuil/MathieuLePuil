@@ -35,9 +35,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 ## 📊 Statistiques Github
 
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MathieuLePuil&show_icons=true&count_private=true&theme=dracula" height="192px"/></a>
+  
 <br/>
 
 <a href="https://github.com/MathieuLePuil"><img alt="Contributions du mois" src="https://activity-graph.herokuapp.com/graph?username=MathieuLePuil&custom_title=Mes%20contributions%20du%20mois&theme=react-dark" /></a>
