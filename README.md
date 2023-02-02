@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=435&lines=%C3%89tudiant+en+B.U.T+MMI+%C3%A0+Troyes;Alternant+chez+les+auto-%C3%A9coles+Popeye;D%C3%A9veloppeur+web+Full+Stack;D%C3%A9veloppeur+Python+(Discord)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=1000&lines=%C3%89tudiant+en+B.U.T+MMI+%C3%A0+Troyes;Alternant+chez+les+auto-%C3%A9coles+Popeye;D%C3%A9veloppeur+web+Full+Stack;D%C3%A9veloppeur+Python+(Discord)" alt="Typing SVG" /></a>
 </p>
 
 <br>
