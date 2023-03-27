@@ -51,6 +51,20 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 	<img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" witdh="48px" height="48px">
+</p>
+
+### 💾 Base de données
+<p>
+	<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" witdh="48px" height="48px">
+</p>
+
+### 🤿 DevOps
+<p>
+	<img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" witdh="48px" height="48px">
 </p>
 
 <br/>
