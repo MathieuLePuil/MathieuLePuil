@@ -67,6 +67,13 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 	<img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" witdh="48px" height="48px">
 </p>
 
+### 🖥️ Système d'exploitation
+<p>
+	<img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" witdh="48px" height="48px">
+</p>
+
 <br/>
 
 
