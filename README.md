@@ -71,7 +71,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 <p>
 	<img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" witdh="48px" height="48px">
-	<img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" witdh="48px" height="48px">
 </p>
 
 <br/>
