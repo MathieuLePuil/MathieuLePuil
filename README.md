@@ -35,9 +35,25 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 ### 🔨 Outils
 <p>
-	<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" witdh="48px" height="48px">
-	<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" witdh="48px" height="48px">
-	<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png
+" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png
+" witdh="48px" height="48px">
+</p>
+
+### 🌐 Développement Web
+<p>
+	<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
+" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png
+" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png
+" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png
+" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png
+" witdh="48px" height="48px">
 </p>
 
 <br/>
