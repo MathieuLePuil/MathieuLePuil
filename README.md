@@ -92,6 +92,13 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
   </p>
 </div>
 
+## 📈 Statistiques
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=MathieuLePuil&show_icons=true" width>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLePuil&layout=compact" height="195px">
+</div>
+
 ---
 
 Crédits: [Mathieu Le Puil](https://github.com/MathieuLePuil)
