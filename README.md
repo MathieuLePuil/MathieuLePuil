@@ -11,7 +11,7 @@
 
 ## 👨🏼‍💼 Mon profil
 
-Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet à l'I.U.T de Troyes. Je poursuivrais ma formation en me spécialisant dans le développement Web afin de devenir Développeur Full Stack. Je travaille actuellement en tant qu'alternant pour les auto-écoles Popeye situé dans Troyes et ses alentours.
+Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet à l'I.U.T de Troyes. Je poursuivrais ma formation en me spécialisant dans le développement Web afin de devenir Développeur Full Stack. Je travaille actuellement en tant qu'alternant pour les auto-écoles Popeye situées dans Troyes et ses alentours.
 
 <br>
 
