@@ -19,7 +19,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 <p align="left">
 	Mail : <a href="mailto:contact@mathieulp.fr" target="_blank">contact@mathieulp.fr</a> <br>
-	Linkedin : <a href="https://www.linkedin.com/in/mathieulepuil/" target="_blank">in/mathieulepuil/</a>
+	Linkedin : <a href="https://www.linkedin.com/in/mathieulepuil/" target="_blank">in/mathieulepuil/</a> <br>
 	X (Twitter) : <a href="https://twitter.com/MathieuLePuil" target="_blank">twitter.com/MathieuLePuil/</a>
 </p>
 
