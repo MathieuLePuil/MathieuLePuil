@@ -95,10 +95,20 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 ## 📈 Statistiques
 
-<div align="center">
+<div>
 	<img src="https://github-readme-stats.vercel.app/api?username=MathieuLePuil&show_icons=true" width>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLePuil&layout=compact" height="195px">
 </div>
+
+<div>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=MySymfonyTemplate)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuLePuil&layout=compact)
+
+</div>
+	
+
 
 ---
 
