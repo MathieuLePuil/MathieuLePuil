@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=1000&lines=%C3%89tudiant+en+B.U.T+MMI+%C3%A0+Troyes;Alternant+chez+les+auto-%C3%A9coles+Popeye;D%C3%A9veloppeur+web+Full+Stack;D%C3%A9veloppeur+Python+(Discord)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=1000&lines=Développeur PHP Symfony;En recherche de CDI / mission freelance;D%C3%A9veloppeur+Python+(Discord)" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -11,7 +11,7 @@
 
 ## 👨🏼‍💼 Mon profil
 
-Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet à l'I.U.T de Troyes. Je poursuivrais ma formation en me spécialisant dans le développement Web afin de devenir Développeur Full Stack. Je travaille actuellement en tant qu'alternant pour les auto-écoles Popeye situées dans Troyes et ses alentours.
+Récemment diplômé en BUT Métiers du Multimédia et de l'Internet à l'IUT de Troyes, je me suis spécialisé dans le développement Web Full Stack. Après avoir travaillé en alternance pour les auto-écoles Popeye à Troyes, je suis actuellement à la recherche d'un emploi en tant que développeur PHP.
 
 <br>
 
@@ -36,9 +36,12 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 
 ### 🔨 Outils
 <p>
-	<img src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" witdh="48px" height="48px">
 </p>
 
 ### 🌐 Développement Web
@@ -47,6 +50,7 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 	<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" witdh="48px" height="48px">
@@ -54,11 +58,17 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 	<img src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" witdh="48px" height="48px">
+	<img src="https://symfony.com/logos/symfony_black_03.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" witdh="48px" height="48px">
+	<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ebd92b15-970a-45b8-8c4c-0ecf69b17cdc" witdh="48px" height="48px">
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" witdh="48px" height="48px">
 </p>
 
 ### 💾 Base de données
 <p>
 	<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" witdh="48px" height="48px">
+	<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" witdh="48px" height="48px">
+	<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" witdh="48px" height="48px">
 </p>
 
 ### 🤿 DevOps
@@ -66,6 +76,13 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 	<img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" witdh="48px" height="48px">
 	<img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" witdh="48px" height="48px">
+</p>
+
+### 🎨 UI/UX
+<p>
+	<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" witdh="48px" height="48px">
+	<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" witdh="48px" height="48px">
+	<img src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d" witdh="48px" height="48px">
 </p>
 
 ### 🖥️ Système d'exploitation
@@ -83,11 +100,11 @@ Je suis actuellement étudiant en BUT Métiers du Multimédia et de l'Internet �
 	
 <div>
   <p align="center">
-    	<a href="https://github.com/MathieuLePuil/PortfolioMMI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=PortfolioMMI&theme=dracula" alt="GitHub Stats" />
+    	<a href="https://github.com/MathieuLePuil/mathieulp.fr">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=mathieulp.fr&theme=dracula" alt="GitHub Stats" />
     	</a>
-	  <a href="https://github.com/MathieuLePuil/discord.py">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=discord.py&theme=dracula" alt="GitHub Stats" />
+	  <a href="https://github.com/MathieuLePuil/SymStartSaaS">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuLePuil&repo=SymStartSaaS&theme=dracula" alt="GitHub Stats" />
     	</a>
 	
   </p>
