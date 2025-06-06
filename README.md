@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+E commerce;En+CDI+chez+ScaleDEV;D%C3%A9veloppeur+PrestaShop;D%C3%A9veloppeur+PHP+Symfony" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeur+E-commerce;En+CDI+chez+ScaleDEV;D%C3%A9veloppeur+PrestaShop;D%C3%A9veloppeur+PHP+Symfony" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
