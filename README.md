@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Mathieu Le Puil</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=1000&lines=Développeur PHP Symfony;En recherche de CDI / mission freelance;D%C3%A9veloppeur+Python+(Discord)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4500&pause=1000&center=true&vCenter=true&width=1000&lines=Développeur PHP PrestaShop;En CDI chez ScaleDEV" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -11,7 +11,7 @@
 
 ## 👨🏼‍💼 Mon profil
 
-Récemment diplômé en BUT Métiers du Multimédia et de l'Internet à l'IUT de Troyes, je me suis spécialisé dans le développement Web Full Stack. Après avoir travaillé en alternance pour les auto-écoles Popeye à Troyes, je suis actuellement à la recherche d'un emploi en tant que développeur PHP.
+Diplômé en BUT Métiers du Multimédia et de l'Internet à l'IUT de Troyes, je me suis spécialisé dans le développement Web. Après avoir travaillé en alternance pour les auto-écoles Popeye à Troyes, j'ai signé en CDI en tant que développeur Web E-commerce chez ScaleDEV.
 
 <br>
 
